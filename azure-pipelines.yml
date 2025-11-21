@@ -27,7 +27,7 @@ stages:
             -eventsConfigFilePath "testEvents.json"
             -clientId "$(ClientID)"
             -clientSecret "$(ClientSecret)"
-            -creator "ToscaExecutionClient ADO Pipeline"
+            -creator "ADO Pipeline DEX"
             -resultsFileName "results.xml"
             -resultsFolderPath "C:/temp/results"
             -debug "true"
